@@ -1,4 +1,3 @@
-# RideV-ise-Demand-Prediction
 # Bike Sharing Demand Problem
 
 ![bisiklet foto github](https://github.com/denizturhanlar/Bike-Sharing-Demand-Prediction/assets/126112467/e5b011d7-8c63-410a-9957-04b5d6e90f6e)
